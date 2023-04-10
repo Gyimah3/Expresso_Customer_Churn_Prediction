@@ -1,7 +1,5 @@
 # Expresso_Customer_Churn_Prediction
 
-# Customer-Churn-Prediction--Expresso
-
 Project Overview
 In today’s commercial world, there is high competition and every customer is valuable. One of the biggest expenditures of any organization is customer churn. Customer churn also known as customer attrition or customer turnover is the percentage of customers that stopped using your company’s product or service within a specified timeframe. This projet is based on a Zindi challenge for an African telecommunications company(Expresso) that provides customers with airtime and mobile data bundles. The objective of this challenge is to develop a machine learning model to predict the likelihood of each customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
 
